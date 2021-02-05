@@ -6,4 +6,4 @@ My name is Anthony. I'm a hobbyist programmer. I enjoy exploring new languages a
 
 ### 📪 Contact Me
 - **Discord:** anthony#8577
-- **Email:** anthony@thenerdcave.us
+- **Email:** [hello@acollier.dev](mailto:hello@acollier.dev)
