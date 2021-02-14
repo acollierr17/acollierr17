@@ -3,6 +3,7 @@ My name is Anthony. I'm a hobbyist programmer. I enjoy exploring new languages a
 
 ### 🔭 I'm currently working on:  
 - Suggestions bot - [Invite](https://discord.com/oauth2/authorize?client_id=474051954998509571&scope=bot&permissions=355392) | [Website](https://suggestionsbot.com) | [Discord](https://discord.gg/ntXkRan)
+- Image Proxy CDN - [GitHub](https://github.com/acollierr17/cdn)
 
 ### 📪 Contact Me
 - **Discord:** anthony#8577
