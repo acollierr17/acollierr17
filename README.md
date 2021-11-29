@@ -7,5 +7,5 @@ My name is Anthony. I'm a hobbyist programmer. I enjoy exploring new languages a
 - Personal Website - [Website](https://acollier.dev) | [GitHub](https://github.com/acollierr17/acollier.dev)
 
 ### 📪 Contact Me
-- **Discord:** anthony#8577 ([discord server](https://discord.gg/9dJjWkupDC))
+- **Discord:** anthony#8577 ([Server](https://discord.gg/9dJjWkupDC))
 - **Email:** [hello@acollier.dev](mailto:hello@acollier.dev)
