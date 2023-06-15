@@ -7,5 +7,5 @@ My name is Anthony. I'm a hobbyist programmer. I enjoy exploring new languages a
 - Netflix Refresh - [Twitter](https://twitter.com/NetflixRefresh) | [Website](https://netflix-refresh.acollier.dev) | [GitHub](https://github.com/acollierr17/netflix-refresh)
 
 ### 📪 Contact Me
-- **Discord:** anthony#8577 ([Server](https://discord.gg/9dJjWkupDC))
+- **Discord:** acollierr17 ([Server](https://discord.gg/9dJjWkupDC))
 - **Email:** [hello@acollier.dev](mailto:hello@acollier.dev)
