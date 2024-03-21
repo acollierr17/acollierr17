@@ -3,6 +3,7 @@ My name is Anthony. I'm a hobbyist programmer. I enjoy exploring new languages a
 
 ### 🔭 I'm currently working on:  
 - Suggestions bot - [Invite](https://suggestions.bot/invite) | [GitHub](https://github.com/suggestionsbot/suggestions-bot) | [Website](https://suggestions.gg) | [Discord](https://discord.gg/suggestions)
+- SafePeek - [Invite](README.md) | [GitHub](README.md) | [Website](https://safepeek.org) | [Discord](README.md)
 - Personal Website - [Website](https://acollier.dev) | [GitHub](https://github.com/acollierr17/acollier.dev)
 - Netflix Refresh - [Twitter](https://twitter.com/NetflixRefresh) | [Website](https://netflix-refresh.com) | [GitHub](https://github.com/acollierr17/netflix-refresh)
 
